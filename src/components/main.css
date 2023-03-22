@@ -1,0 +1,29 @@
+main{
+    /* height: 100%; */
+    padding: 57px 27px;
+    color: white;
+    background-image: url(../Image/logo192.png);
+    background-position: right 75%;
+    background-repeat:no-repeat ;
+}
+
+.main-head{
+margin: 0;
+font-size: 39px;
+letter-spacing: -0.05em;
+}
+
+.main-fact{
+    margin-top: 46px;
+    max-width:400px
+}
+
+.main-fact li{
+    line-height: 19px;
+    padding-block: 10px;
+}
+
+.main-fact li::marker{
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
